@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Arpit0111/Arpit0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨Arpit Pandey
 
-Here are some ideas to get you started:
+Hi there! I'm a passionate web Developer using (Html,css and java script)i love building clean, user-friendly web applications andweb development for solving real-world problems with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📍 **Location:** Prayagraj, Uttar Pradesh  
+🎓 **Education:** Bachelor of Computer Application (BCA), United Institute of Management  
+📧 **Email:** [arpitpandey0222@gmail.com] 
+🔗 **LinkedIn:**https://www.linkedin.com/in/arpit-pandey-901a2a271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+💻 **GitHub:**
+
+---
+
+## 💼 Skills
+
+- Web Development,Frontend development
+- JavaScript, HTML, CSS, C.
+- Data Structures & Algorithms (DSA)
+- java ,c# and c++
+- Responsive web design 
+
+---
+
+
+---
+
+Thanks for visiting my profile! 😊
