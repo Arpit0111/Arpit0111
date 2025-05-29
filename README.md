@@ -22,7 +22,14 @@ Hi there! I'm a passionate web Developer using (Html,css and java script)i love 
 - java ,c# and c++
 - Responsive web design 
 
----
+---Languages:
+Java HTML CSS JavaScript C
+
+Database:
+MySQL
+
+Tools & Technologies:
+Git REST API
 
 
 ---
