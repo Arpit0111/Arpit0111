@@ -8,6 +8,7 @@ Hi there! I'm a passionate web Developer using (Html,css and java script)i love 
 📍 **Location:** Prayagraj, Uttar Pradesh  
 🎓 **Education:** Bachelor of Computer Application (BCA), United Institute of Management  
 📧 **Email:** [arpitpandey0222@gmail.com] 
+
 🔗 **LinkedIn:**https://www.linkedin.com/in/arpit-pandey-901a2a271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 💻 **GitHub:**
 
