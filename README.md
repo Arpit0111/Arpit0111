@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arpit Pandey  
 
-A passionate frontend developer and DSA enthusiast using Python and Java  
+A passionate Frontend Developer, Data Analyst, and DSA enthusiast using Python and Java  
 
 [![Visit My Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpit0111.github.io/My_Portfolio/)  
 [![Visit My LinkedIn](https://img.shields.io/badge/-LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-pandey-901a2a271)
@@ -17,6 +17,7 @@ A passionate frontend developer and DSA enthusiast using Python and Java
 ## 🛠 Languages & Core Skills  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 
 ---
 
@@ -27,9 +28,30 @@ A passionate frontend developer and DSA enthusiast using Python and Java
 
 ---
 
+## 📊 Data Analytics & Visualization  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+
+---
+
+## 🤖 Machine Learning  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
+
+---
+
 ## 📊 Data Structures & Algorithms  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+
+---
+
+## 📜 Certifications  
+- 🎖 **Google Data Analytics Professional Certificate** – *Coursera*  
+  [![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)  
 
 ---
 
@@ -42,3 +64,5 @@ A passionate frontend developer and DSA enthusiast using Python and Java
 ## 📌 Popular Repositories  
 - [**Python_Projects**](#) – My Python-based projects with real-world applications  
 - [**Java_DSA**](#) – Data Structures & Algorithms in Java  
+- [**Data_Analytics**](#) – Projects on data analysis & visualization  
+- [**Machine_Learning**](#) – ML models and experiments  
