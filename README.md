@@ -51,6 +51,7 @@ A passionate Frontend Developer, Data Analyst, and DSA enthusiast using Python a
 
 ## 📜 Certifications  
 - 🎖 **Google Data Analytics Professional Certificate** – *Coursera*  
+  [Verification Link](https://coursera.org/verify/professional-cert/V4Q4OGCIOKH)  
   [![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)  
 
 ---
