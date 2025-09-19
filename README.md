@@ -1,7 +1,8 @@
-# [Hi 👋, I'm Arpit Pandey](https://arpit0111.github.io/My_Portfolio/)
+# Hi 👋, I'm Arpit Pandey  
 
 A passionate frontend developer and DSA enthusiast using Python and Java  
 
+[![Visit My Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpit0111.github.io/My_Portfolio/)  
 [![Visit My LinkedIn](https://img.shields.io/badge/-LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-pandey-901a2a271)
 
 ---
@@ -27,4 +28,17 @@ A passionate frontend developer and DSA enthusiast using Python and Java
 ---
 
 ## 📊 Data Structures & Algorithms  
-![Python](https://img.shields.io/badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+
+---
+
+## 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-pandey-901a2a271)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arpitpandey0222@gmail.com)  
+
+---
+
+## 📌 Popular Repositories  
+- [**Python_Projects**](#) – My Python-based projects with real-world applications  
+- [**Java_DSA**](#) – Data Structures & Algorithms in Java  
