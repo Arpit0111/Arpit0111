@@ -21,7 +21,10 @@
 - ⚡ Motto: *"Turn Data into Decisions & Ideas into Code"*  
 
 ---
-
+## 📊 Visitors Counter  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpit0111&label=Profile%20Views&color=ff69b4&style=flat" alt="Views Counter" />
+</p>
 ## 🚀 Tech Arsenal  
 
 ### 🛠 Languages  
